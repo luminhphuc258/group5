@@ -1,0 +1,9 @@
+[1mdiff --git a/file.txt b/file.txt[m
+[1mindex 86e0d02..a2accb8 100644[m
+[1m--- a/file.txt[m
+[1m+++ b/file.txt[m
+[36m@@ -1 +1 @@[m
+[31m-hey check this file [m
+\ No newline at end of file[m
+[32m+[m[32mhey check this file man[m
+\ No newline at end of file[m
